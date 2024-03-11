@@ -1,6 +1,7 @@
 import "./App.css";
 
 function App() {
+  
   return (
     <div className="bg-black text-white flex items-center justify-center pt-6">
       <div className="cards flex justify-center items-center max-w-2xl flex-wrap gap-4">
